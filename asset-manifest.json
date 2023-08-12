@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/revenue-app/static/css/main.b0761bc5.css",
+    "main.js": "/revenue-app/static/js/main.3c37f704.js",
+    "static/js/787.541420ae.chunk.js": "/revenue-app/static/js/787.541420ae.chunk.js",
+    "index.html": "/revenue-app/index.html",
+    "main.b0761bc5.css.map": "/revenue-app/static/css/main.b0761bc5.css.map",
+    "main.3c37f704.js.map": "/revenue-app/static/js/main.3c37f704.js.map",
+    "787.541420ae.chunk.js.map": "/revenue-app/static/js/787.541420ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0761bc5.css",
+    "static/js/main.3c37f704.js"
+  ]
+}
